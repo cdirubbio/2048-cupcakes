@@ -21,7 +21,7 @@ body {
 h1.title {
     font-size: 40px;
     font-weight: bold;
-    margin: 10px;
+    margin: 0;
     display: block;
     float: left;
 }
@@ -425,82 +425,79 @@ hr {
     text-align: center;
     font-weight: bold;
     z-index: 10;
-    background-position: center;
     font-size: 0px;
 }
 
 .tile.tile-2 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/cmd-pfc/first-pic.jpg');
+    background-image: url('../img/vanilla-cupcake.jpg');
     background-size: cover;
 }
 
 .tile.tile-4 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/cmd-pfc/first-formal.jpg');
+    background-image: url('../img/strawberry-vanilla-cupcake.jpg');
     background-size: cover;
 }
 
 .tile.tile-8 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/cmd-pfc/june-8.JPG');
+    background-image: url('../img/lemon-cupcake.jpg');
     background-size: cover;
 }
 
 .tile.tile-16 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/cmd-pfc/summer-flower-picture.jpg');
+    background-image: url('../img/red-velvet-cupcake.jpg');
     background-size: cover;
-    background-position: center 20%; /* Moves the image up slightly */
 }
 
 .tile.tile-32 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/cmd-pfc/sofia-tombs.jpg');
+    background-image: url('../img/mint-cupcake.jpg');
     background-size: cover;
 }
 
 .tile.tile-64 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/cmd-pfc/suez-phoebe.jpg');
-    background-size: 260%;
-    background-position: 55% 65%; /* Moves the image up slightly */
+    background-image: url('../img/jumbo-oreo-cupcake.jpg');
+    background-size: cover;
 }
 
 .tile.tile-128 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/cmd-pfc/couch-pic.JPG');
+    background-image: url('../img/birthday-cupcake.jpg');
     background-size: cover;
 }
 
 .tile.tile-256 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/cmd-pfc/pumpkin-patch.JPG');
+    background-image: url('../img/royal-blue-cupcake.jpg');
     background-size: cover;
 }
 
 .tile.tile-512 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/cmd-pfc/diwali.jpg');
+    background-image: url('../img/caramel-cupcake.jpg');
     background-size: cover;
 }
 
 .tile.tile-1024 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/cmd-pfc/phoebe-coco.jpg');
+    background-image: url('../img/pink-champagne-cupcake.jpg');
     background-size: cover;
 }
 
 .tile.tile-2048 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/cmd-pfc/el-centro-formal.JPG');
+    background-image: url('../img/christmas-cupcake.jpg');
     /* use ../img/pumpkin-cupcake.jpg for fall */
     background-size: cover;
 }
 
 .tile.tile-super .tile-inner {
     font-size: 0px;
-    background-image: url('../img/cmd-pfc/blanket-pic.jpg');
+    background-image: url('../img/gold-cupcake.jpg');
     background-size: cover;
 }
 
